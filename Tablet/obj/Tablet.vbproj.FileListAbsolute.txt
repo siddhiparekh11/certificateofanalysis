@@ -1,0 +1,178 @@
+D:\Tablet\Tablet\obj\Debug\Tablet.exe
+D:\Tablet\Tablet\obj\Debug\Tablet.xml
+D:\Tablet\Tablet\obj\Debug\Tablet.pdb
+D:\Tablet\Tablet\bin\Debug\Tablet.exe
+D:\Tablet\Tablet\bin\Debug\Tablet.pdb
+D:\Tablet\Tablet\bin\Debug\Tablet.xml
+D:\Tablet\Tablet\obj\Debug\ResolveAssemblyReference.cache
+D:\Tablet\Tablet\obj\Debug\Tablet.Resources.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.vbproj.GenerateResource.Cache
+D:\Tablet\Tablet\obj\Debug\Tablet.frm_uniform_validate.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.frm_grd_det.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.tablet_master.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.tablet_ingredient.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.ingredient.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.ingredient_list.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.frm_mdi.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.tablet_detail.resources
+D:\Tablet\Tablet\obj\Debug\Tablet.tablet_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.exe
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.xml
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.pdb
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.frm_mdi.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.ingredient_list.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.LoginForm1.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.frm_uniform_validate.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Debug\Tablet.exe
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Debug\Tablet.pdb
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Debug\Tablet.xml
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_ingredient_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_ingredient_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.login_transactions.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_alert.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.login.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Release\Tablet.exe
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Release\Tablet.pdb
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\bin\Release\Tablet.xml
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.login.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.sop_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.powder_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_report.rpt
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.cream_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.powder_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.sop_alert.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.sop_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.sop_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.sop_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_report_viewer.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.login_transactions.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_ingredient_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.liquid_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.frm_mdi.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.ingredient_list.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.LoginForm1.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.powder_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.powder_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.powder_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.SplashScreen1.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_ingredient_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_master.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_master_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_detail.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.frm_uniform_validate.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.tablet_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.ingredient.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.exe
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.xml
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Release\Tablet.pdb
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_calculation.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_detail_grid.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_calculation.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_calculation.resources
+C:\Documents and Settings\Administrator\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.exe
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.xml
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.pdb
+C:\Users\Admin\Desktop\Tablet\Tablet\bin\Debug\Tablet.exe
+C:\Users\Admin\Desktop\Tablet\Tablet\bin\Debug\Tablet.pdb
+C:\Users\Admin\Desktop\Tablet\Tablet\bin\Debug\Tablet.xml
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_report.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.login.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_report.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_report.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_report.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_report.rpt
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_calculation.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_detail_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_detail.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_master.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_master_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.cream_report_viewer.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_calculation.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_calculation.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_detail_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_ingredient_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_report_viewer.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_alert.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_report_viewer.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_detail.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_master.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.sop_report_viewer.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_report_viewer.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.login_transactions.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_detail.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_detail_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_ingredient_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_master_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.liquid_master.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.frm_mdi.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.ingredient_list.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.LoginForm1.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_detail.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_master.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.powder_master_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.SplashScreen1.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_ingredient_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_master.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_master_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_detail.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.frm_uniform_validate.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.tablet_detail_grid.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.ingredient.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.Resources.resources
+C:\Users\Admin\Desktop\Tablet\Tablet\obj\Debug\Tablet.vbproj.GenerateResource.Cache

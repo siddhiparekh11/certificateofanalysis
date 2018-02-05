@@ -1,0 +1,14 @@
+bin\Debug\Tablet.exe
+bin\Debug\Tablet.pdb
+bin\Debug\Tablet.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Tablet.Form1.resources
+obj\Debug\Tablet.Form2.resources
+obj\Debug\Tablet.Form3.resources
+obj\Debug\Tablet.Form4.resources
+obj\Debug\Tablet.Resources.resources
+obj\Debug\Tablet.vbproj.GenerateResource.Cache
+obj\Debug\Tablet.exe
+obj\Debug\Tablet.xml
+obj\Debug\Tablet.pdb
+obj\Debug\Tablet.Form5.resources

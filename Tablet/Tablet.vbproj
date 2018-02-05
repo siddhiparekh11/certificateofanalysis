@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D59A7034-3F1C-4C11-84E2-DB803BABC19F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Tablet.My.MyApplication</StartupObject>
+    <RootNamespace>Tablet</RootNamespace>
+    <AssemblyName>Tablet</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Tablet.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Tablet.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cream_calculation.Designer.vb">
+      <DependentUpon>cream_calculation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_calculation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cream_detail_grid.Designer.vb">
+      <DependentUpon>cream_detail_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_detail_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cream_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cream_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cream_detail.Designer.vb">
+      <DependentUpon>cream_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cream_ingredient.designer.vb">
+      <DependentUpon>cream_ingredient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cream_master.Designer.vb">
+      <DependentUpon>cream_master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cream_master_grid.Designer.vb">
+      <DependentUpon>cream_master_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_master_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CREAM_MODULE.vb" />
+    <Compile Include="cream_report_viewer.Designer.vb">
+      <DependentUpon>cream_report_viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cream_report_viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_calculation.Designer.vb">
+      <DependentUpon>liquid_calculation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_calculation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>login.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="powder_calculation.Designer.vb">
+      <DependentUpon>powder_calculation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_calculation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_detail_grid.Designer.vb">
+      <DependentUpon>powder_detail_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_detail_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_ingredient_grid.Designer.vb">
+      <DependentUpon>powder_ingredient_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_ingredient_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sop_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sop_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="powder_ingredient.Designer.vb">
+      <DependentUpon>powder_ingredient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_report_viewer.Designer.vb">
+      <DependentUpon>powder_report_viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_report_viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>powder_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sop_alert.Designer.vb">
+      <DependentUpon>sop_alert.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sop_alert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sop_detail.Designer.vb">
+      <DependentUpon>sop_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sop_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>liquid_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="liquid_report_viewer.Designer.vb">
+      <DependentUpon>liquid_report_viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_report_viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sop_master.Designer.vb">
+      <DependentUpon>sop_master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sop_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sop_module.vb" />
+    <Compile Include="sop_report_viewer.Designer.vb">
+      <DependentUpon>sop_report_viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sop_report_viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_report.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>tablet_report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="tablet_report_viewer.Designer.vb">
+      <DependentUpon>tablet_report_viewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_report_viewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_transactions.Designer.vb">
+      <DependentUpon>login_transactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login_transactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_ingredient_grid.Designer.vb">
+      <DependentUpon>liquid_ingredient_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_ingredient_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_detail.designer.vb">
+      <DependentUpon>liquid_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_detail_grid.designer.vb">
+      <DependentUpon>liquid_detail_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_detail_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_master_grid.designer.vb">
+      <DependentUpon>liquid_master_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_master_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_ingredient.designer.vb">
+      <DependentUpon>liquid_ingredient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liquid_master.designer.vb">
+      <DependentUpon>liquid_master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liquid_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mdi.Designer.vb">
+      <DependentUpon>frm_mdi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mdi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingredient_list.Designer.vb">
+      <DependentUpon>ingredient_list.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingredient_list.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIQUID_MODULE.vb" />
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN_MODULE.vb" />
+    <Compile Include="powder_detail.Designer.vb">
+      <DependentUpon>powder_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_master.Designer.vb">
+      <DependentUpon>powder_master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="powder_master_grid.Designer.vb">
+      <DependentUpon>powder_master_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="powder_master_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POWDER_MODULE.vb" />
+    <Compile Include="SplashScreen1.designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_ingredient_grid.Designer.vb">
+      <DependentUpon>tablet_ingredient_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_ingredient_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_master.Designer.vb">
+      <DependentUpon>tablet_master.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_ingredient.Designer.vb">
+      <DependentUpon>tablet_ingredient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_master_grid.Designer.vb">
+      <DependentUpon>tablet_master_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_master_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_detail.Designer.vb">
+      <DependentUpon>tablet_detail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_detail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_calculation.Designer.vb">
+      <DependentUpon>tablet_calculation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_calculation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablet_detail_grid.Designer.vb">
+      <DependentUpon>tablet_detail_grid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablet_detail_grid.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingredient.Designer.vb">
+      <DependentUpon>ingredient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ingredient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TABLET_MODULE.vb" />
+    <Compile Include="INGREDIENT_MODULE.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cream_calculation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cream_calculation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_detail_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cream_detail_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cream_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_detail.resx">
+      <DependentUpon>cream_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_ingredient.resx">
+      <DependentUpon>cream_ingredient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_master.resx">
+      <DependentUpon>cream_master.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_master_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cream_master_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cream_report_viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cream_report_viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_calculation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>liquid_calculation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>login.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_calculation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_calculation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_detail_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_detail_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_ingredient.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_ingredient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_ingredient_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_ingredient_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sop_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sop_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_report_viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_report_viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>powder_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sop_alert.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>sop_alert.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>liquid_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_report_viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>liquid_report_viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sop_detail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>sop_detail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sop_master.resx">
+      <DependentUpon>sop_master.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sop_report_viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>sop_report_viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>tablet_report.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_report_viewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_report_viewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_transactions.resx">
+      <DependentUpon>login_transactions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_detail.resx">
+      <DependentUpon>liquid_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_detail_grid.resx">
+      <DependentUpon>liquid_detail_grid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_ingredient_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>liquid_ingredient_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_master_grid.resx">
+      <DependentUpon>liquid_master_grid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_ingredient.resx">
+      <DependentUpon>liquid_ingredient.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liquid_master.resx">
+      <DependentUpon>liquid_master.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mdi.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frm_mdi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingredient_list.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ingredient_list.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_detail.resx">
+      <DependentUpon>powder_detail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_master.resx">
+      <DependentUpon>powder_master.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="powder_master_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>powder_master_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_ingredient_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_ingredient_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_master.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_master.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_ingredient.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_ingredient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_master_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_master_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_detail.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_detail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_calculation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_calculation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablet_detail_grid.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>tablet_detail_grid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingredient.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ingredient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
